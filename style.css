@@ -1,0 +1,359 @@
+*{
+    font-family: sans-serif;
+}
+
+.maindiv{
+    margin: -8px;
+    margin-top: -20px;
+}
+
+.subdiv1{
+    background-color: rgb(51,51,51);
+    color: rgb(173,173,173);
+    position: fixed;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.table{
+    margin-left: 200px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+}
+
+tr td{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.hover td:hover{
+    color: white;
+}
+
+.hover1:hover{
+    color: white;
+}
+.subdiv2{
+    background-color: rgb(0,113,227);
+    margin: auto;
+    color: white;
+    padding-top: 55px;
+}
+
+.blue{
+    margin: 0%;
+    padding: 13px;
+    text-align: center;
+}
+.subdiv3{
+    background-color: rgb(245,245,247);
+}
+.white{
+    margin: 0%;
+    padding: 13px;
+    text-align: center;
+    color: rgb(116, 116, 117);
+}
+.white label{
+    color: rgb(59, 137, 214);
+}
+.subdiv4{
+    padding-top: 10px;
+    /* margin-top: 10px; */
+    text-align: center;
+    background-color: rgb(251,251,253);
+}
+.heading{
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 0%;
+    margin-top: 50px;
+}
+.subhead{
+    font-size: 30px;
+    margin: 0%;
+    color: rgb(48,48,50);
+}
+.subheadd{
+    color: rgb(113, 113, 114);
+}
+.lable{
+    text-decoration: none;
+    color: rgb(73,145,218);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 20px;
+}
+.lable:hover{
+    text-decoration: underline;
+}
+
+.subdiv5{
+    padding-top: 10px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.heading1{
+    padding-top: 40px;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+.subhead1{
+    font-size: 30px;
+    margin: 0%;
+    /* color: rgb(48,48,50); */
+}
+.subdiv6{
+    padding-top: 10px; 
+    text-align: center;
+    background-color: rgb(251,251,253);
+}
+
+.subdiv7{
+    background-image: url(images/man.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    width: 48%;
+    float: left;
+    height: 500px;
+    margin: 13px;
+   
+}
+.subdiv8{
+    background-image: url(images/applewatch.png);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    width: 48%;
+    float: right;
+    height: 500px;
+    margin: 13px;
+   
+}
+
+.heading2{
+    font-size: 40px;
+    font-weight: bolder;
+    margin-bottom: 0%;
+}
+.subhead2{
+    font-size: 20px;
+}
+
+.apple{
+    font-size: 30px;
+    padding-top: 15px;
+    margin-bottom: 0%;
+}
+.series{
+    color: rgb(180, 6, 6);
+    margin-top: 5px;
+}
+.intro{
+    font-size: 20px;
+    margin-top: 0%;
+}
+.a{
+    font-size: 17px;
+    margin-top: 0%;
+}
+.subdiv9{
+    background-color: rgb(251,251,253);
+    text-align: center;
+    width: 48%;
+    float: left;
+    height: 500px;
+    margin: 13px;
+}
+.limit{
+    margin: 0%;
+    color: red;
+    font-size: 13px;
+}
+.heading3{
+    font-size: 40px;
+    font-weight: bolder;
+    margin: 0%;
+    line-height: 35px;
+}
+
+.get{
+    font-size:22px;
+    margin: 0%;
+    color: rgb(53, 53, 53);
+    padding-top: 8px;
+}
+.b{
+    margin: 0%;
+    font-size: 20px;
+}
+
+.subdiv10{
+    background-color: rgb(251,251,253);
+    text-align: center;
+    width: 48%;
+    float: right;
+    height: 500px;
+    margin: 13px;
+}
+.apple1{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 0%;
+    margin-top: 10px;
+}
+
+.image{
+    margin-top: -15px;
+}
+
+.subdiv11{
+    color: rgb(251,208,57);
+    background-image: url(images/music.png);
+    background-repeat: no-repeat;
+    text-align: center;
+    width: 48%;
+    float: left;
+    height: 500px;
+    margin: 13px;
+}
+
+.heading4{
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+.subhead3{
+    font-size: 30px;
+    margin: 5px;
+}
+.subhead4{
+    font-size: 25px;
+    margin: 0%;
+}
+
+.subdiv12{
+   background-image: url(images/3in\ one.png);
+   background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    width: 48%;
+    float: right;
+    height: 500px;
+    margin: 13px;
+}
+
+.heading5{
+    padding-top: 270px;
+    font-size: 40px;
+    margin-bottom: 0%;
+}
+.subhead5{
+    font-size: 25px;
+    margin: 0%;
+}
+.watch{
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+.watch:hover{
+    text-decoration: underline;
+}
+
+.subdiv13{
+    background-color:rgb(245,245,247);
+}
+.subdiv14{
+    width: 75%;
+    margin: auto;
+    font-size: 13px;
+    padding-top: 10px;
+    color: rgb(165,165,169);
+}
+.para{
+    font-size: 13px;
+    color: rgb(165,165,169);
+    padding-left: 27px;
+}
+
+.break{
+    border: none;
+    height: 1px;
+    background-color: rgb(165,165,169);
+
+}
+
+th{
+    text-align: left;
+    padding-left: 28px;
+    color: rgb(103, 103, 105);
+    /* width: 50px; */
+}
+td{
+    color: rgb(165,165,169);
+    padding-top: 10px;
+}
+.table1{
+    margin-left: 157px;
+    /* padding: 10px; */
+    /* margin-top: 20px; */
+    margin-right: 130px;
+    font-size: 13px;
+}
+
+
+.subdiv15{
+    width: 100%;
+    /* padding-left: px; */
+}
+.para2{
+    font-size: 13px;
+    color: rgb(103, 103, 105);
+    padding-left:195px;
+}
+.change{
+    color: rgb(115, 176, 238);
+    text-decoration: none;
+}
+.change:hover{
+    text-decoration: underline;
+}
+
+
+
+.d{
+    font-size: 17px;
+    margin-right: 0%;
+    padding-right: 0%;
+}
+
+.copyright{
+    font-size: 13px;
+    color: rgb(118,118,121);
+   padding-left: 194px;
+}
+
+.copyright a{
+    font-size: 13px;
+    text-decoration: none;
+    color: rgb(118,118,121);
+    padding-left: 20px;
+}
+
+.copyright a:hover{
+    text-decoration: underline;
+}
+.united{
+    margin-left: 150px;
+   
+}
+
+.break1{
+    width: 76%;
+    border: none;
+    height: 1px;
+    background-color: rgb(165,165,169);
+}
